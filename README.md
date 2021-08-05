@@ -1,2 +1,2 @@
-# fd-application-guard
+# FlightDeck Application Guard
 Library for FlightDeck application guard
